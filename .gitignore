@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 
-venv/
 
 # Distribution / packaging
 .Python
@@ -132,6 +131,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+artifect/
 
 # Spyder project settings
 .spyderproject
